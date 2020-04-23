@@ -8,8 +8,7 @@ function App() {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
-                    Edit <code>src/App.js</code> and save to MAMA I KILLED A
-                    MAN.
+                    Edit <code>src/App.js</code> SIEMA DELO MAN.
                 </p>
                 <a
                     className="App-link"
