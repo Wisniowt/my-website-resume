@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/my-website-resume/static/css/main.e8c091c2.chunk.css",
-    "main.js": "/my-website-resume/static/js/main.99fdf37f.chunk.js",
-    "main.js.map": "/my-website-resume/static/js/main.99fdf37f.chunk.js.map",
+    "main.js": "/my-website-resume/static/js/main.9bedd1ac.chunk.js",
+    "main.js.map": "/my-website-resume/static/js/main.9bedd1ac.chunk.js.map",
     "runtime-main.js": "/my-website-resume/static/js/runtime-main.9a51f1ac.js",
     "runtime-main.js.map": "/my-website-resume/static/js/runtime-main.9a51f1ac.js.map",
     "static/css/2.f8f30761.chunk.css": "/my-website-resume/static/css/2.f8f30761.chunk.css",
-    "static/js/2.90a8e35b.chunk.js": "/my-website-resume/static/js/2.90a8e35b.chunk.js",
-    "static/js/2.90a8e35b.chunk.js.map": "/my-website-resume/static/js/2.90a8e35b.chunk.js.map",
+    "static/js/2.8b77eed7.chunk.js": "/my-website-resume/static/js/2.8b77eed7.chunk.js",
+    "static/js/2.8b77eed7.chunk.js.map": "/my-website-resume/static/js/2.8b77eed7.chunk.js.map",
     "index.html": "/my-website-resume/index.html",
-    "precache-manifest.21ce6d71707779dd614f6e4dddf3ff5d.js": "/my-website-resume/precache-manifest.21ce6d71707779dd614f6e4dddf3ff5d.js",
+    "precache-manifest.6b4d42bf245d001a7c1795c69e730477.js": "/my-website-resume/precache-manifest.6b4d42bf245d001a7c1795c69e730477.js",
     "service-worker.js": "/my-website-resume/service-worker.js",
     "static/css/2.f8f30761.chunk.css.map": "/my-website-resume/static/css/2.f8f30761.chunk.css.map",
     "static/css/main.e8c091c2.chunk.css.map": "/my-website-resume/static/css/main.e8c091c2.chunk.css.map",
-    "static/js/2.90a8e35b.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.90a8e35b.chunk.js.LICENSE.txt",
+    "static/js/2.8b77eed7.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.8b77eed7.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/my-website-resume/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/my-website-resume/static/media/fa-solid-900.ec763292.svg",
     "static/media/placeholder.jpg": "/my-website-resume/static/media/placeholder.46814359.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.9a51f1ac.js",
     "static/css/2.f8f30761.chunk.css",
-    "static/js/2.90a8e35b.chunk.js",
+    "static/js/2.8b77eed7.chunk.js",
     "static/css/main.e8c091c2.chunk.css",
-    "static/js/main.99fdf37f.chunk.js"
+    "static/js/main.9bedd1ac.chunk.js"
   ]
 }
