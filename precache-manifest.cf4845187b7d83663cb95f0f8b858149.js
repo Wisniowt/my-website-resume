@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c17665cc7c2d3695726386ebf77b868a",
+    "revision": "cda84dc601d9d9b9c430b9f33f4b1263",
     "url": "/my-website-resume/index.html"
   },
   {
-    "revision": "cc3002f1987a4796adb7",
+    "revision": "ea2fe0fba02251f87fa7",
     "url": "/my-website-resume/static/css/2.f8f30761.chunk.css"
   },
   {
-    "revision": "9266d21b37a6cd98b0d4",
-    "url": "/my-website-resume/static/css/main.e1be886f.chunk.css"
+    "revision": "116346d253f34f25be33",
+    "url": "/my-website-resume/static/css/main.e4f4e73e.chunk.css"
   },
   {
-    "revision": "cc3002f1987a4796adb7",
-    "url": "/my-website-resume/static/js/2.d12e305a.chunk.js"
+    "revision": "ea2fe0fba02251f87fa7",
+    "url": "/my-website-resume/static/js/2.3f08fa01.chunk.js"
   },
   {
     "revision": "25e1ff24efa206f36f0cf792ee084b6b",
-    "url": "/my-website-resume/static/js/2.d12e305a.chunk.js.LICENSE.txt"
+    "url": "/my-website-resume/static/js/2.3f08fa01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9266d21b37a6cd98b0d4",
-    "url": "/my-website-resume/static/js/main.29084f42.chunk.js"
+    "revision": "116346d253f34f25be33",
+    "url": "/my-website-resume/static/js/main.431a7779.chunk.js"
   },
   {
     "revision": "d2ff65b613911e9e2afb",
     "url": "/my-website-resume/static/js/runtime-main.9a51f1ac.js"
+  },
+  {
+    "revision": "f9b4795684ba5a8c89aeaffddd56085a",
+    "url": "/my-website-resume/static/media/CancerPrediction.f9b47956.jpg"
   },
   {
     "revision": "27813ef9ead79786b2a44923f2be7788",
