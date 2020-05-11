@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cda84dc601d9d9b9c430b9f33f4b1263",
+    "revision": "aa97163d7760bcbbe9f8109716381387",
     "url": "/my-website-resume/index.html"
   },
   {
-    "revision": "ea2fe0fba02251f87fa7",
+    "revision": "f9a5c596422cc2243b76",
     "url": "/my-website-resume/static/css/2.f8f30761.chunk.css"
   },
   {
-    "revision": "116346d253f34f25be33",
-    "url": "/my-website-resume/static/css/main.e4f4e73e.chunk.css"
+    "revision": "91d059c10708d2638318",
+    "url": "/my-website-resume/static/css/main.60f78467.chunk.css"
   },
   {
-    "revision": "ea2fe0fba02251f87fa7",
-    "url": "/my-website-resume/static/js/2.3f08fa01.chunk.js"
+    "revision": "f9a5c596422cc2243b76",
+    "url": "/my-website-resume/static/js/2.f54e5f45.chunk.js"
   },
   {
     "revision": "25e1ff24efa206f36f0cf792ee084b6b",
-    "url": "/my-website-resume/static/js/2.3f08fa01.chunk.js.LICENSE.txt"
+    "url": "/my-website-resume/static/js/2.f54e5f45.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "116346d253f34f25be33",
-    "url": "/my-website-resume/static/js/main.431a7779.chunk.js"
+    "revision": "91d059c10708d2638318",
+    "url": "/my-website-resume/static/js/main.5b4dd096.chunk.js"
   },
   {
     "revision": "d2ff65b613911e9e2afb",
@@ -32,6 +32,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-website-resume/static/media/CancerPrediction.f9b47956.jpg"
   },
   {
+    "revision": "5743623e0f5997d214815ed2b5c537fd",
+    "url": "/my-website-resume/static/media/ClimbingCropped.5743623e.jpg"
+  },
+  {
     "revision": "27813ef9ead79786b2a44923f2be7788",
     "url": "/my-website-resume/static/media/Clongowes.27813ef9.jpg"
   },
@@ -40,8 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-website-resume/static/media/FinalYearProject.78c0c01f.pdf"
   },
   {
+    "revision": "edfdb9b146c6c0a876a57f68c2284652",
+    "url": "/my-website-resume/static/media/GamingCropped.edfdb9b1.jpg"
+  },
+  {
+    "revision": "3f73810ec52540af8db736e802b6af67",
+    "url": "/my-website-resume/static/media/GymCropped.3f73810e.jpg"
+  },
+  {
     "revision": "c0ed690e589c69ce4a5695845c8f2b75",
     "url": "/my-website-resume/static/media/IBMResized.c0ed690e.jpg"
+  },
+  {
+    "revision": "557f7f39375f63751a02ec01bd342261",
+    "url": "/my-website-resume/static/media/RugbyCropped.557f7f39.jpg"
   },
   {
     "revision": "6a38ac3f61429a37f4750fd931467a85",

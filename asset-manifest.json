@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/my-website-resume/static/css/main.e4f4e73e.chunk.css",
-    "main.js": "/my-website-resume/static/js/main.431a7779.chunk.js",
-    "main.js.map": "/my-website-resume/static/js/main.431a7779.chunk.js.map",
+    "main.css": "/my-website-resume/static/css/main.60f78467.chunk.css",
+    "main.js": "/my-website-resume/static/js/main.5b4dd096.chunk.js",
+    "main.js.map": "/my-website-resume/static/js/main.5b4dd096.chunk.js.map",
     "runtime-main.js": "/my-website-resume/static/js/runtime-main.9a51f1ac.js",
     "runtime-main.js.map": "/my-website-resume/static/js/runtime-main.9a51f1ac.js.map",
     "static/css/2.f8f30761.chunk.css": "/my-website-resume/static/css/2.f8f30761.chunk.css",
-    "static/js/2.3f08fa01.chunk.js": "/my-website-resume/static/js/2.3f08fa01.chunk.js",
-    "static/js/2.3f08fa01.chunk.js.map": "/my-website-resume/static/js/2.3f08fa01.chunk.js.map",
+    "static/js/2.f54e5f45.chunk.js": "/my-website-resume/static/js/2.f54e5f45.chunk.js",
+    "static/js/2.f54e5f45.chunk.js.map": "/my-website-resume/static/js/2.f54e5f45.chunk.js.map",
     "index.html": "/my-website-resume/index.html",
-    "precache-manifest.cf4845187b7d83663cb95f0f8b858149.js": "/my-website-resume/precache-manifest.cf4845187b7d83663cb95f0f8b858149.js",
+    "precache-manifest.3883e6f524e947226c455a1f179a79a6.js": "/my-website-resume/precache-manifest.3883e6f524e947226c455a1f179a79a6.js",
     "service-worker.js": "/my-website-resume/service-worker.js",
     "static/css/2.f8f30761.chunk.css.map": "/my-website-resume/static/css/2.f8f30761.chunk.css.map",
-    "static/css/main.e4f4e73e.chunk.css.map": "/my-website-resume/static/css/main.e4f4e73e.chunk.css.map",
-    "static/js/2.3f08fa01.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.3f08fa01.chunk.js.LICENSE.txt",
+    "static/css/main.60f78467.chunk.css.map": "/my-website-resume/static/css/main.60f78467.chunk.css.map",
+    "static/js/2.f54e5f45.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.f54e5f45.chunk.js.LICENSE.txt",
     "static/media/CancerPrediction.jpg": "/my-website-resume/static/media/CancerPrediction.f9b47956.jpg",
+    "static/media/ClimbingCropped.jpg": "/my-website-resume/static/media/ClimbingCropped.5743623e.jpg",
     "static/media/Clongowes.jpg": "/my-website-resume/static/media/Clongowes.27813ef9.jpg",
     "static/media/FinalYearProject.pdf": "/my-website-resume/static/media/FinalYearProject.78c0c01f.pdf",
+    "static/media/GamingCropped.jpg": "/my-website-resume/static/media/GamingCropped.edfdb9b1.jpg",
+    "static/media/GymCropped.jpg": "/my-website-resume/static/media/GymCropped.3f73810e.jpg",
     "static/media/IBMResized.jpg": "/my-website-resume/static/media/IBMResized.c0ed690e.jpg",
+    "static/media/RugbyCropped.jpg": "/my-website-resume/static/media/RugbyCropped.557f7f39.jpg",
     "static/media/TrinityResized.jpg": "/my-website-resume/static/media/TrinityResized.6a38ac3f.jpg",
     "static/media/mdb.css": "/my-website-resume/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/my-website-resume/static/media/fa-solid-900.ec763292.svg",
@@ -27,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.9a51f1ac.js",
     "static/css/2.f8f30761.chunk.css",
-    "static/js/2.3f08fa01.chunk.js",
-    "static/css/main.e4f4e73e.chunk.css",
-    "static/js/main.431a7779.chunk.js"
+    "static/js/2.f54e5f45.chunk.js",
+    "static/css/main.60f78467.chunk.css",
+    "static/js/main.5b4dd096.chunk.js"
   ]
 }
