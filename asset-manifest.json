@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-website-resume/static/css/main.f246ce53.chunk.css",
+    "main.css": "/my-website-resume/static/css/main.7dec6e04.chunk.css",
     "main.js": "/my-website-resume/static/js/main.aee09042.chunk.js",
     "main.js.map": "/my-website-resume/static/js/main.aee09042.chunk.js.map",
     "runtime-main.js": "/my-website-resume/static/js/runtime-main.9a51f1ac.js",
@@ -9,10 +9,10 @@
     "static/js/2.98118f94.chunk.js": "/my-website-resume/static/js/2.98118f94.chunk.js",
     "static/js/2.98118f94.chunk.js.map": "/my-website-resume/static/js/2.98118f94.chunk.js.map",
     "index.html": "/my-website-resume/index.html",
-    "precache-manifest.5757b17cb058b1f868b50a1de9ddca58.js": "/my-website-resume/precache-manifest.5757b17cb058b1f868b50a1de9ddca58.js",
+    "precache-manifest.0cf8384c6b5805e0e6da4574a386ed15.js": "/my-website-resume/precache-manifest.0cf8384c6b5805e0e6da4574a386ed15.js",
     "service-worker.js": "/my-website-resume/service-worker.js",
     "static/css/2.f8f30761.chunk.css.map": "/my-website-resume/static/css/2.f8f30761.chunk.css.map",
-    "static/css/main.f246ce53.chunk.css.map": "/my-website-resume/static/css/main.f246ce53.chunk.css.map",
+    "static/css/main.7dec6e04.chunk.css.map": "/my-website-resume/static/css/main.7dec6e04.chunk.css.map",
     "static/js/2.98118f94.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.98118f94.chunk.js.LICENSE.txt",
     "static/media/CancerPrediction.jpg": "/my-website-resume/static/media/CancerPrediction.f9b47956.jpg",
     "static/media/ClimbingCropped.jpg": "/my-website-resume/static/media/ClimbingCropped.5743623e.jpg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.9a51f1ac.js",
     "static/css/2.f8f30761.chunk.css",
     "static/js/2.98118f94.chunk.js",
-    "static/css/main.f246ce53.chunk.css",
+    "static/css/main.7dec6e04.chunk.css",
     "static/js/main.aee09042.chunk.js"
   ]
 }
