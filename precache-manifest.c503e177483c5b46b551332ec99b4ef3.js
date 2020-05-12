@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cc7b4c47dee5eb0ecc67051222be9e6",
+    "revision": "bb73f36498d0e82265fb7cec6347eb81",
     "url": "/my-website-resume/index.html"
   },
   {
-    "revision": "1499b9bfe2822a86f6d1",
+    "revision": "a251469b6883c318b454",
     "url": "/my-website-resume/static/css/2.f8f30761.chunk.css"
   },
   {
-    "revision": "f3bfb6165f6886b6d322",
-    "url": "/my-website-resume/static/css/main.495ff31c.chunk.css"
+    "revision": "62eba4d478ecdaf8a87c",
+    "url": "/my-website-resume/static/css/main.66a01ab7.chunk.css"
   },
   {
-    "revision": "1499b9bfe2822a86f6d1",
-    "url": "/my-website-resume/static/js/2.9a7574d5.chunk.js"
+    "revision": "a251469b6883c318b454",
+    "url": "/my-website-resume/static/js/2.4c8228a4.chunk.js"
   },
   {
     "revision": "25e1ff24efa206f36f0cf792ee084b6b",
-    "url": "/my-website-resume/static/js/2.9a7574d5.chunk.js.LICENSE.txt"
+    "url": "/my-website-resume/static/js/2.4c8228a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f3bfb6165f6886b6d322",
-    "url": "/my-website-resume/static/js/main.15ac9e0a.chunk.js"
+    "revision": "62eba4d478ecdaf8a87c",
+    "url": "/my-website-resume/static/js/main.5d5888d1.chunk.js"
   },
   {
     "revision": "d2ff65b613911e9e2afb",
@@ -56,8 +56,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-website-resume/static/media/IBMResized.c0ed690e.jpg"
   },
   {
+    "revision": "f5fa14dc3d4139354c1350353b62058c",
+    "url": "/my-website-resume/static/media/ProxyServer.f5fa14dc.png"
+  },
+  {
     "revision": "557f7f39375f63751a02ec01bd342261",
     "url": "/my-website-resume/static/media/RugbyCropped.557f7f39.jpg"
+  },
+  {
+    "revision": "49a225c4e0cffe8e87e028c69ab60d79",
+    "url": "/my-website-resume/static/media/ShowFileShare.49a225c4.PNG"
+  },
+  {
+    "revision": "65077dbac54a7031fa827458c419b04b",
+    "url": "/my-website-resume/static/media/Stock.65077dba.png"
   },
   {
     "revision": "6a38ac3f61429a37f4750fd931467a85",
