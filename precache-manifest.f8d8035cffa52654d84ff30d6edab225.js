@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a29c97017ddf3fb32b62455ac8599cdc",
+    "revision": "d63a036b2ef224068980e2554a3f635a",
     "url": "/my-website-resume/index.html"
   },
   {
-    "revision": "06635568a48cc184879d",
+    "revision": "1738e8b75ef19e44115b",
     "url": "/my-website-resume/static/css/2.f8f30761.chunk.css"
   },
   {
-    "revision": "5295f6fa9494f88b44e2",
+    "revision": "f5f3d1b8c57cbe3f4c63",
     "url": "/my-website-resume/static/css/main.66a01ab7.chunk.css"
   },
   {
-    "revision": "06635568a48cc184879d",
-    "url": "/my-website-resume/static/js/2.6c80b852.chunk.js"
+    "revision": "1738e8b75ef19e44115b",
+    "url": "/my-website-resume/static/js/2.b6ac70a9.chunk.js"
   },
   {
     "revision": "25e1ff24efa206f36f0cf792ee084b6b",
-    "url": "/my-website-resume/static/js/2.6c80b852.chunk.js.LICENSE.txt"
+    "url": "/my-website-resume/static/js/2.b6ac70a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5295f6fa9494f88b44e2",
-    "url": "/my-website-resume/static/js/main.057e7efd.chunk.js"
+    "revision": "f5f3d1b8c57cbe3f4c63",
+    "url": "/my-website-resume/static/js/main.48c6a6d6.chunk.js"
   },
   {
     "revision": "d2ff65b613911e9e2afb",
@@ -60,28 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-website-resume/static/media/Proxy5.36b82ff3.jpg"
   },
   {
-    "revision": "546e52b6913bb869a12f9a7044073cbc",
-    "url": "/my-website-resume/static/media/Proxy5Resized1.546e52b6.jpg"
-  },
-  {
-    "revision": "7560b00526b003b6e4cb0b28f950bad1",
-    "url": "/my-website-resume/static/media/ProxyServerTry3.7560b005.png"
-  },
-  {
-    "revision": "c32ed41d6967ca61417bfc1b17e85a24",
-    "url": "/my-website-resume/static/media/ProxyServerTry3Resized.c32ed41d.jpg"
-  },
-  {
-    "revision": "0e21497b4383aa8f8af49fc48905a2ad",
-    "url": "/my-website-resume/static/media/ProxyServerTry4.0e21497b.png"
-  },
-  {
-    "revision": "7379edf4c3624bedf352fbc65bdf2ef4",
-    "url": "/my-website-resume/static/media/ProxyServerTry4Resized2.7379edf4.jpg"
-  },
-  {
-    "revision": "26fe0dd7347d76f57512653b07d0d288",
-    "url": "/my-website-resume/static/media/ProxyServerTry4Resized3.26fe0dd7.jpg"
+    "revision": "3b45df4e539d632b9bb9b366e01dddef",
+    "url": "/my-website-resume/static/media/Proxy5Resized.3b45df4e.jpg"
   },
   {
     "revision": "557f7f39375f63751a02ec01bd342261",
