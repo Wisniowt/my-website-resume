@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3285b76fcbaf23f33e495ee45fe194f",
+    "revision": "052ba229bf1ab5dcaee891cb13e4b46b",
     "url": "/my-website-resume/index.html"
   },
   {
-    "revision": "405b3088041fb12438ae",
+    "revision": "21669f58c09620bb1fd3",
     "url": "/my-website-resume/static/css/2.f8f30761.chunk.css"
   },
   {
-    "revision": "9a3218620ec8f00f1468",
+    "revision": "8be2f749fee9dbb1f711",
     "url": "/my-website-resume/static/css/main.66a01ab7.chunk.css"
   },
   {
-    "revision": "405b3088041fb12438ae",
-    "url": "/my-website-resume/static/js/2.aaeb791d.chunk.js"
+    "revision": "21669f58c09620bb1fd3",
+    "url": "/my-website-resume/static/js/2.36c7e7d0.chunk.js"
   },
   {
     "revision": "25e1ff24efa206f36f0cf792ee084b6b",
-    "url": "/my-website-resume/static/js/2.aaeb791d.chunk.js.LICENSE.txt"
+    "url": "/my-website-resume/static/js/2.36c7e7d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9a3218620ec8f00f1468",
-    "url": "/my-website-resume/static/js/main.6c190341.chunk.js"
+    "revision": "8be2f749fee9dbb1f711",
+    "url": "/my-website-resume/static/js/main.d3792920.chunk.js"
   },
   {
     "revision": "d2ff65b613911e9e2afb",
@@ -56,12 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-website-resume/static/media/IBMResized.c0ed690e.jpg"
   },
   {
-    "revision": "f5fa14dc3d4139354c1350353b62058c",
-    "url": "/my-website-resume/static/media/ProxyServer.f5fa14dc.png"
-  },
-  {
-    "revision": "5b79c6e56d2e05fbc5134d92fa2e46d8",
-    "url": "/my-website-resume/static/media/ProxyServerResized.5b79c6e5.png"
+    "revision": "7560b00526b003b6e4cb0b28f950bad1",
+    "url": "/my-website-resume/static/media/ProxyServerTry3.7560b005.png"
   },
   {
     "revision": "557f7f39375f63751a02ec01bd342261",
@@ -146,10 +142,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec763292e583294612f124c0b0def500",
     "url": "/my-website-resume/static/media/fa-solid-900.ec763292.svg"
-  },
-  {
-    "revision": "4681435976beb146141539a18e9b21ca",
-    "url": "/my-website-resume/static/media/placeholder.46814359.jpg"
   },
   {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",

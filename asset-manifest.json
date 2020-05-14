@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/my-website-resume/static/css/main.66a01ab7.chunk.css",
-    "main.js": "/my-website-resume/static/js/main.6c190341.chunk.js",
-    "main.js.map": "/my-website-resume/static/js/main.6c190341.chunk.js.map",
+    "main.js": "/my-website-resume/static/js/main.d3792920.chunk.js",
+    "main.js.map": "/my-website-resume/static/js/main.d3792920.chunk.js.map",
     "runtime-main.js": "/my-website-resume/static/js/runtime-main.9a51f1ac.js",
     "runtime-main.js.map": "/my-website-resume/static/js/runtime-main.9a51f1ac.js.map",
     "static/css/2.f8f30761.chunk.css": "/my-website-resume/static/css/2.f8f30761.chunk.css",
-    "static/js/2.aaeb791d.chunk.js": "/my-website-resume/static/js/2.aaeb791d.chunk.js",
-    "static/js/2.aaeb791d.chunk.js.map": "/my-website-resume/static/js/2.aaeb791d.chunk.js.map",
+    "static/js/2.36c7e7d0.chunk.js": "/my-website-resume/static/js/2.36c7e7d0.chunk.js",
+    "static/js/2.36c7e7d0.chunk.js.map": "/my-website-resume/static/js/2.36c7e7d0.chunk.js.map",
     "index.html": "/my-website-resume/index.html",
-    "precache-manifest.679ff6d70e31e3b0e1a23914187b295d.js": "/my-website-resume/precache-manifest.679ff6d70e31e3b0e1a23914187b295d.js",
+    "precache-manifest.4739d6ed1caf629c75624d7feeea2fe4.js": "/my-website-resume/precache-manifest.4739d6ed1caf629c75624d7feeea2fe4.js",
     "service-worker.js": "/my-website-resume/service-worker.js",
     "static/css/2.f8f30761.chunk.css.map": "/my-website-resume/static/css/2.f8f30761.chunk.css.map",
     "static/css/main.66a01ab7.chunk.css.map": "/my-website-resume/static/css/main.66a01ab7.chunk.css.map",
-    "static/js/2.aaeb791d.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.aaeb791d.chunk.js.LICENSE.txt",
+    "static/js/2.36c7e7d0.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.36c7e7d0.chunk.js.LICENSE.txt",
     "static/media/CancerPrediction.jpg": "/my-website-resume/static/media/CancerPrediction.f9b47956.jpg",
     "static/media/ClimbingCropped.jpg": "/my-website-resume/static/media/ClimbingCropped.5743623e.jpg",
     "static/media/Clongowes.jpg": "/my-website-resume/static/media/Clongowes.27813ef9.jpg",
@@ -21,22 +21,20 @@
     "static/media/GamingCropped.jpg": "/my-website-resume/static/media/GamingCropped.edfdb9b1.jpg",
     "static/media/GymCropped.jpg": "/my-website-resume/static/media/GymCropped.3f73810e.jpg",
     "static/media/IBMResized.jpg": "/my-website-resume/static/media/IBMResized.c0ed690e.jpg",
-    "static/media/ProxyServer.png": "/my-website-resume/static/media/ProxyServer.f5fa14dc.png",
-    "static/media/ProxyServerResized.png": "/my-website-resume/static/media/ProxyServerResized.5b79c6e5.png",
+    "static/media/ProxyServerTry3.png": "/my-website-resume/static/media/ProxyServerTry3.7560b005.png",
     "static/media/RugbyCropped.jpg": "/my-website-resume/static/media/RugbyCropped.557f7f39.jpg",
     "static/media/ShowFileShare.PNG": "/my-website-resume/static/media/ShowFileShare.49a225c4.PNG",
     "static/media/Stock.png": "/my-website-resume/static/media/Stock.65077dba.png",
     "static/media/TrinityResized.jpg": "/my-website-resume/static/media/TrinityResized.6a38ac3f.jpg",
     "static/media/mdb.css": "/my-website-resume/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/my-website-resume/static/media/fa-solid-900.ec763292.svg",
-    "static/media/placeholder.jpg": "/my-website-resume/static/media/placeholder.46814359.jpg",
     "static/media/styles.css": "/my-website-resume/static/media/revicons.2feb69cc.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.9a51f1ac.js",
     "static/css/2.f8f30761.chunk.css",
-    "static/js/2.aaeb791d.chunk.js",
+    "static/js/2.36c7e7d0.chunk.js",
     "static/css/main.66a01ab7.chunk.css",
-    "static/js/main.6c190341.chunk.js"
+    "static/js/main.d3792920.chunk.js"
   ]
 }
