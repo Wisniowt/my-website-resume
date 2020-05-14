@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/my-website-resume/static/css/main.66a01ab7.chunk.css",
-    "main.js": "/my-website-resume/static/js/main.28eadec3.chunk.js",
-    "main.js.map": "/my-website-resume/static/js/main.28eadec3.chunk.js.map",
+    "main.js": "/my-website-resume/static/js/main.f83aa0ec.chunk.js",
+    "main.js.map": "/my-website-resume/static/js/main.f83aa0ec.chunk.js.map",
     "runtime-main.js": "/my-website-resume/static/js/runtime-main.9a51f1ac.js",
     "runtime-main.js.map": "/my-website-resume/static/js/runtime-main.9a51f1ac.js.map",
     "static/css/2.f8f30761.chunk.css": "/my-website-resume/static/css/2.f8f30761.chunk.css",
-    "static/js/2.94fc2c16.chunk.js": "/my-website-resume/static/js/2.94fc2c16.chunk.js",
-    "static/js/2.94fc2c16.chunk.js.map": "/my-website-resume/static/js/2.94fc2c16.chunk.js.map",
+    "static/js/2.560af38c.chunk.js": "/my-website-resume/static/js/2.560af38c.chunk.js",
+    "static/js/2.560af38c.chunk.js.map": "/my-website-resume/static/js/2.560af38c.chunk.js.map",
     "index.html": "/my-website-resume/index.html",
-    "precache-manifest.ba08bd579e092065ca7a035e61e1d151.js": "/my-website-resume/precache-manifest.ba08bd579e092065ca7a035e61e1d151.js",
+    "precache-manifest.8d18ea78070c62a8d07b0d23efdc9fd3.js": "/my-website-resume/precache-manifest.8d18ea78070c62a8d07b0d23efdc9fd3.js",
     "service-worker.js": "/my-website-resume/service-worker.js",
     "static/css/2.f8f30761.chunk.css.map": "/my-website-resume/static/css/2.f8f30761.chunk.css.map",
     "static/css/main.66a01ab7.chunk.css.map": "/my-website-resume/static/css/main.66a01ab7.chunk.css.map",
-    "static/js/2.94fc2c16.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.94fc2c16.chunk.js.LICENSE.txt",
+    "static/js/2.560af38c.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.560af38c.chunk.js.LICENSE.txt",
     "static/media/CancerPrediction.jpg": "/my-website-resume/static/media/CancerPrediction.f9b47956.jpg",
     "static/media/ClimbingCropped.jpg": "/my-website-resume/static/media/ClimbingCropped.5743623e.jpg",
     "static/media/Clongowes.jpg": "/my-website-resume/static/media/Clongowes.27813ef9.jpg",
@@ -25,6 +25,7 @@
     "static/media/ProxyServerTry3Resized.jpg": "/my-website-resume/static/media/ProxyServerTry3Resized.c32ed41d.jpg",
     "static/media/ProxyServerTry4.png": "/my-website-resume/static/media/ProxyServerTry4.0e21497b.png",
     "static/media/ProxyServerTry4Resized2.jpg": "/my-website-resume/static/media/ProxyServerTry4Resized2.7379edf4.jpg",
+    "static/media/ProxyServerTry4Resized3.jpg": "/my-website-resume/static/media/ProxyServerTry4Resized3.26fe0dd7.jpg",
     "static/media/RugbyCropped.jpg": "/my-website-resume/static/media/RugbyCropped.557f7f39.jpg",
     "static/media/ShowFileShare.PNG": "/my-website-resume/static/media/ShowFileShare.49a225c4.PNG",
     "static/media/Stock.png": "/my-website-resume/static/media/Stock.65077dba.png",
@@ -36,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.9a51f1ac.js",
     "static/css/2.f8f30761.chunk.css",
-    "static/js/2.94fc2c16.chunk.js",
+    "static/js/2.560af38c.chunk.js",
     "static/css/main.66a01ab7.chunk.css",
-    "static/js/main.28eadec3.chunk.js"
+    "static/js/main.f83aa0ec.chunk.js"
   ]
 }
