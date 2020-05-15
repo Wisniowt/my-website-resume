@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-website-resume/static/css/main.66a01ab7.chunk.css",
-    "main.js": "/my-website-resume/static/js/main.48c6a6d6.chunk.js",
-    "main.js.map": "/my-website-resume/static/js/main.48c6a6d6.chunk.js.map",
+    "main.css": "/my-website-resume/static/css/main.470c2cf5.chunk.css",
+    "main.js": "/my-website-resume/static/js/main.16491b99.chunk.js",
+    "main.js.map": "/my-website-resume/static/js/main.16491b99.chunk.js.map",
     "runtime-main.js": "/my-website-resume/static/js/runtime-main.9a51f1ac.js",
     "runtime-main.js.map": "/my-website-resume/static/js/runtime-main.9a51f1ac.js.map",
     "static/css/2.f8f30761.chunk.css": "/my-website-resume/static/css/2.f8f30761.chunk.css",
-    "static/js/2.b6ac70a9.chunk.js": "/my-website-resume/static/js/2.b6ac70a9.chunk.js",
-    "static/js/2.b6ac70a9.chunk.js.map": "/my-website-resume/static/js/2.b6ac70a9.chunk.js.map",
+    "static/js/2.083181de.chunk.js": "/my-website-resume/static/js/2.083181de.chunk.js",
+    "static/js/2.083181de.chunk.js.map": "/my-website-resume/static/js/2.083181de.chunk.js.map",
     "index.html": "/my-website-resume/index.html",
-    "precache-manifest.f8d8035cffa52654d84ff30d6edab225.js": "/my-website-resume/precache-manifest.f8d8035cffa52654d84ff30d6edab225.js",
+    "precache-manifest.f0f83e155278845a04c63aaed1922a84.js": "/my-website-resume/precache-manifest.f0f83e155278845a04c63aaed1922a84.js",
     "service-worker.js": "/my-website-resume/service-worker.js",
     "static/css/2.f8f30761.chunk.css.map": "/my-website-resume/static/css/2.f8f30761.chunk.css.map",
-    "static/css/main.66a01ab7.chunk.css.map": "/my-website-resume/static/css/main.66a01ab7.chunk.css.map",
-    "static/js/2.b6ac70a9.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.b6ac70a9.chunk.js.LICENSE.txt",
+    "static/css/main.470c2cf5.chunk.css.map": "/my-website-resume/static/css/main.470c2cf5.chunk.css.map",
+    "static/js/2.083181de.chunk.js.LICENSE.txt": "/my-website-resume/static/js/2.083181de.chunk.js.LICENSE.txt",
     "static/media/CancerPrediction.jpg": "/my-website-resume/static/media/CancerPrediction.f9b47956.jpg",
     "static/media/ClimbingCropped.jpg": "/my-website-resume/static/media/ClimbingCropped.5743623e.jpg",
     "static/media/Clongowes.jpg": "/my-website-resume/static/media/Clongowes.27813ef9.jpg",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.9a51f1ac.js",
     "static/css/2.f8f30761.chunk.css",
-    "static/js/2.b6ac70a9.chunk.js",
-    "static/css/main.66a01ab7.chunk.css",
-    "static/js/main.48c6a6d6.chunk.js"
+    "static/js/2.083181de.chunk.js",
+    "static/css/main.470c2cf5.chunk.css",
+    "static/js/main.16491b99.chunk.js"
   ]
 }
