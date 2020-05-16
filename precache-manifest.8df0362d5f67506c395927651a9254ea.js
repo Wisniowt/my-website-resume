@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b696571054c7c1d063d69189b095e59",
+    "revision": "8f274564912fa5a34e1456c40308e6bc",
     "url": "/my-website-resume/index.html"
   },
   {
-    "revision": "0c4ce2698d9000c0cc28",
+    "revision": "371f48c249c723bcbce6",
     "url": "/my-website-resume/static/css/2.f8f30761.chunk.css"
   },
   {
-    "revision": "37701a7138b41a2b101d",
-    "url": "/my-website-resume/static/css/main.54484158.chunk.css"
+    "revision": "6933a1b99de1f64389a3",
+    "url": "/my-website-resume/static/css/main.61c02cf0.chunk.css"
   },
   {
-    "revision": "0c4ce2698d9000c0cc28",
-    "url": "/my-website-resume/static/js/2.365a1635.chunk.js"
+    "revision": "371f48c249c723bcbce6",
+    "url": "/my-website-resume/static/js/2.aa15c949.chunk.js"
   },
   {
-    "revision": "25e1ff24efa206f36f0cf792ee084b6b",
-    "url": "/my-website-resume/static/js/2.365a1635.chunk.js.LICENSE.txt"
+    "revision": "a1d2ec531816eb43d39a402dcaccf569",
+    "url": "/my-website-resume/static/js/2.aa15c949.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37701a7138b41a2b101d",
-    "url": "/my-website-resume/static/js/main.dbfeab04.chunk.js"
+    "revision": "6933a1b99de1f64389a3",
+    "url": "/my-website-resume/static/js/main.0ce1f67a.chunk.js"
   },
   {
     "revision": "d2ff65b613911e9e2afb",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-website-resume/static/media/GymCropped.3f73810e.jpg"
   },
   {
+    "revision": "1b7416a963454ca51ee48d2d640b075b",
+    "url": "/my-website-resume/static/media/HomeCVA.1b7416a9.PNG"
+  },
+  {
     "revision": "c0ed690e589c69ce4a5695845c8f2b75",
     "url": "/my-website-resume/static/media/IBMResized.c0ed690e.jpg"
   },
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6a38ac3f61429a37f4750fd931467a85",
     "url": "/my-website-resume/static/media/TrinityResized.6a38ac3f.jpg"
+  },
+  {
+    "revision": "90d77fb5162714d6e6c15703eb28d91b",
+    "url": "/my-website-resume/static/media/actionPlansCVA.90d77fb5.PNG"
   },
   {
     "revision": "11911410dca2de148f30954eb2fd5eab",
@@ -146,6 +154,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec763292e583294612f124c0b0def500",
     "url": "/my-website-resume/static/media/fa-solid-900.ec763292.svg"
+  },
+  {
+    "revision": "951d97410e461ce037e9b9ede54d7b7b",
+    "url": "/my-website-resume/static/media/loginCVA.951d9741.jpg"
   },
   {
     "revision": "04eb8fc57f27498e5ae37523e3bfb2c7",
