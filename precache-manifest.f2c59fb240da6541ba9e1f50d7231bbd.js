@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26c7faa1c2660f17ab1f33c62db5ad03",
+    "revision": "c27be5c3cf2b58b2e0b85aa2b4ea6f47",
     "url": "/index.html"
   },
   {
-    "revision": "567d061ebe7eedffd747",
+    "revision": "ab9ba19d7b1424e9ed3a",
     "url": "/static/css/2.79cc454b.chunk.css"
   },
   {
-    "revision": "8a1698d5e92381772ee2",
+    "revision": "1647a021ded579deb8d5",
     "url": "/static/css/main.61c02cf0.chunk.css"
   },
   {
-    "revision": "567d061ebe7eedffd747",
-    "url": "/static/js/2.f3b3bc68.chunk.js"
+    "revision": "ab9ba19d7b1424e9ed3a",
+    "url": "/static/js/2.36955cb5.chunk.js"
   },
   {
     "revision": "a1d2ec531816eb43d39a402dcaccf569",
-    "url": "/static/js/2.f3b3bc68.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.36955cb5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a1698d5e92381772ee2",
-    "url": "/static/js/main.b04303c3.chunk.js"
+    "revision": "1647a021ded579deb8d5",
+    "url": "/static/js/main.3f238333.chunk.js"
   },
   {
     "revision": "1b458cbf1e0582e68774",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6a38ac3f61429a37f4750fd931467a85",
     "url": "/static/media/TrinityResized.6a38ac3f.jpg"
+  },
+  {
+    "revision": "2239894702dd8211588f7203ee3546c9",
+    "url": "/static/media/Weather.22398947.jpg"
   },
   {
     "revision": "90d77fb5162714d6e6c15703eb28d91b",
@@ -178,5 +182,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2feb69ccb596730c72920c6ba3e37ef8",
     "url": "/static/media/revicons.2feb69cc.eot"
+  },
+  {
+    "revision": "621797fd46e275718c8019b25727017f",
+    "url": "/static/media/weatherEnd.621797fd.PNG"
+  },
+  {
+    "revision": "35e0efdc7daedc9069164be23b0307ce",
+    "url": "/static/media/weatherMiddle.35e0efdc.PNG"
+  },
+  {
+    "revision": "9edc26d7a700bd8f71431e0c435aea2e",
+    "url": "/static/media/weatherStart.9edc26d7.PNG"
   }
 ]);
